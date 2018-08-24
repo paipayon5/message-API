@@ -5,8 +5,8 @@ import MockAdapter from 'axios-mock-adapter';
 
 import LineClient from '../LineClient';
 
-const ACCESS_TOKEN = '1234567890';
-const CHANNEL_SECRET = 'so-secret';
+const ACCESS_TOKEN = 'XVSK9QiC9d43KAac7o7re6BUGaVftgtNqmCygK0esKMNShPZT11d5uefBnffkUHDuR9vuwrY8kPvOBM82VlTd3daGTzC6HH6/6i9D+6kAIMG8R+Yw3wTKan0Bnp1boqxYhOU86QkJUzGi0T0/XecfgdB04t89/1O/w1cDnyilFU=';
+const CHANNEL_SECRET = '836adb912d7cbc15cd1a2a453cf6f860';
 
 const headers = {
   Authorization: `Bearer ${ACCESS_TOKEN}`,
